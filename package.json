@@ -1,0 +1,19 @@
+{
+  "name": "pancakeswap-sniping-bot",
+  "version": "1.0.2",
+  "description": "Fast and easy sniping bot for Pancakeswap",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "eth-sign-utils": "^4.5.7",
+    "ethers": "^5.5.3",
+    "express": "^4.17.2",
+    "web3": "^1.7.0"
+  }
+}
